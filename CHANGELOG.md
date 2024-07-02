@@ -7,3 +7,4 @@ This log tracks architectural and documentation refinements.
 - `2024-06-28` — gitignore
 - `2024-07-02` — clarify component responsibilities
 - `2024-07-02` — terminology cleanup
+- `2024-07-02` — cross-link related repositories
