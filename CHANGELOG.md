@@ -9,3 +9,4 @@ This log tracks architectural and documentation refinements.
 - `2024-07-02` — terminology cleanup
 - `2024-07-02` — cross-link related repositories
 - `2024-07-03` — production status update
+- `2024-07-04` — rephrase TL;DR
