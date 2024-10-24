@@ -11,3 +11,4 @@ This log tracks architectural and documentation refinements.
 - `2024-07-03` — production status update
 - `2024-07-04` — rephrase TL;DR
 - `2024-07-06` — expand 'My Role' section
+- `2024-10-24` — capabilities — clarify wording
