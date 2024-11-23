@@ -14,3 +14,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-24` — capabilities — clarify wording
 - `2024-10-25` — trailing whitespace
 - `2024-11-21` — rephrase TL;DR
+- `2024-11-23` — scope clarification
