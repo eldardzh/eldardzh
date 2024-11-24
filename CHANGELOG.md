@@ -16,3 +16,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-21` — rephrase TL;DR
 - `2024-11-23` — scope clarification
 - `2024-11-24` — badges + status
+- `2024-11-24` — markdown lint
