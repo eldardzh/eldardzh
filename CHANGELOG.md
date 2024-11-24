@@ -18,3 +18,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-24` — badges + status
 - `2024-11-24` — markdown lint
 - `2024-11-24` — license notice
+- `2024-11-24` — surface key invariants
