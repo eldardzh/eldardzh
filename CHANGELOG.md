@@ -22,3 +22,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-26` — surface key invariants
 - `2024-11-26` — cross-link related repositories
 - `2024-11-26` — terminology cleanup
+- `2024-11-27` — production status update
