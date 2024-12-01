@@ -26,3 +26,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-28` — expand 'My Role' section
 - `2024-11-28` — expand 'My Role' section
 - `2024-11-29` — rephrase TL;DR
+- `2024-12-01` — expand 'My Role' section
