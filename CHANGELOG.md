@@ -29,3 +29,4 @@ This log tracks architectural and documentation refinements.
 - `2024-12-01` — expand 'My Role' section
 - `2024-12-03` — contact block tidy
 - `2024-12-03` — scope clarification
+- `2025-01-28` — more precise stack list
