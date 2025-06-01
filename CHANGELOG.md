@@ -33,3 +33,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-29` — clarify component responsibilities
 - `2025-01-29` — contact block tidy
 - `2025-04-01` — production status update
+- `2025-06-01` — ADR — chain-agnostic boundary
