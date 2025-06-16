@@ -38,3 +38,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-03` — scope clarification
 - `2025-06-03` — expand 'My Role' section
 - `2025-06-13` — rephrase TL;DR
+- `2025-06-16` — link external references
