@@ -41,3 +41,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-16` — link external references
 - `2025-06-16` — badge refresh
 - `2025-06-16` — clarify component responsibilities
+- `2025-06-17` — link external references
