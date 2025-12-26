@@ -45,3 +45,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-18` — surface key invariants
 - `2025-07-08` — ADR — reorg-safe projection
 - `2025-08-31` — ADR — idempotent execution
+- `2025-12-26` — improve mermaid diagram
