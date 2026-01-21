@@ -47,3 +47,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-31` — ADR — idempotent execution
 - `2025-12-26` — improve mermaid diagram
 - `2025-12-27` — improve mermaid diagram
+- `2026-01-21` — cross-link related repositories
