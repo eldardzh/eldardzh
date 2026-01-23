@@ -48,3 +48,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-26` — improve mermaid diagram
 - `2025-12-27` — improve mermaid diagram
 - `2026-01-21` — cross-link related repositories
+- `2026-01-23` — scope clarification
