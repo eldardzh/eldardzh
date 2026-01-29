@@ -51,3 +51,4 @@ This log tracks architectural and documentation refinements.
 - `2026-01-23` — scope clarification
 - `2026-01-23` — cross-link related repositories
 - `2026-01-26` — ADR — risk layer veto authority
+- `2026-01-29` — surface key invariants
