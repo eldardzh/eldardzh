@@ -55,3 +55,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-05` — ADR — queue-backed mutations
 - `2026-04-21` — more precise stack list
 - `2026-04-22` — gitignore
+- `2026-04-22` — more precise stack list
