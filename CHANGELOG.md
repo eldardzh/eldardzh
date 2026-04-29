@@ -61,3 +61,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-28` — expand 'My Role' section
 - `2026-04-28` — more precise stack list
 - `2026-04-29` — rephrase capabilities
+- `2026-04-29` — tighten decisions section
