@@ -1,4 +1,4 @@
-<p align="center"><picture><source media="(max-width: 600px)" srcset="assets/banner-mobile.svg"><img src="assets/banner.svg" alt="Eldar D. Senior Engineer and Architect. Smart contracts, security, systems architecture. Building CryptoSafe and DuetPro." width="100%"></picture></p>
+<p align="center"><picture><source media="(max-width: 600px)" srcset="assets/banner-mobile.gif"><img src="assets/banner.gif" alt="Animated Null Operator. Eldar D. Senior Engineer and Architect. Smart contracts, security, systems architecture. Building CryptoSafe and DuetPro." width="100%"></picture></p>
 
 **I'm Eldar — a senior engineer and architect working across smart contracts, security, and production systems.** I turn complex systems into products people can use: from protocol logic and signing flows to desktop apps, AI tools, and the infrastructure behind them.
 
@@ -84,15 +84,11 @@ My wider work includes desktop and web products, developer tools, business autom
 
 ### How I Work
 
-<img align="right" src="assets/null-operator.gif" width="112" alt="Null Operator, my animated engineering character">
-
 I use AI agents to explore, implement, and review. I check their work against the actual behavior: tests, running apps, transaction state, logs. A green answer in a chat is not a production check.
 
 The interesting parts are usually at the boundaries: a wallet that lost its RPC, an agent that needs to recover, a document a scanner cannot read, a payment whose outcome is still unknown. That is where I spend my time.
 
 Build notes, engineering decisions, experiments with agents, and programming life: [X / @EldarDissmay](https://x.com/EldarDissmay).
-
-<br clear="all">
 
 <p align="center">
   <sub>Available for select engagements</sub><br>
