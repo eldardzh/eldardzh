@@ -1,19 +1,23 @@
-<p align="center"><img src="assets/banner.svg" alt="Eldar D. Senior engineer and architect. Web3, trading systems, AI agents. Shipping now: Nullmask, VaultOS, DuetPro." width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Eldar D. Senior engineer and architect. Software, systems, AI agents. Shipping now: Nullmask, VaultOS, DuetPro." width="100%"></p>
 
-I build the production systems others don't want to touch: zero-knowledge privacy, self-custody, trading infrastructure, and the agent tooling I ship all of it with.
+I build products end to end: smart contracts, trading systems, desktop apps, AI tools, and the infrastructure behind them. I use coding agents every day — architecture, verification, and the production outcome are still my job.
+
+**WeWay / WePad** is a whole ecosystem in that work: token sales, vesting, claims, contracts, backends, admin panels, indexers, and Telegram apps. My on-chain work spans **Solidity, Anchor, Move, and FunC** across EVM, Solana, Sui, and TON.
+
+Here are selected projects. I also work on document processing, business automation, developer tools, bots, SDKs, and product interfaces.
 
 ### Selected Work
 
 <p>
+<a href="https://github.com/eldardzh/weway-launchpad"><img src="assets/card-weway.svg" width="49%" alt="WeWay / WePad. Token sales, vesting, claims, smart contracts, backends, admin panels and Telegram apps."></a>
+<a href="https://github.com/eldardzh/multichain-contracts"><img src="assets/card-multichain-contracts.svg" width="49%" alt="Contracts. Solidity, Anchor, Move and FunC across four ecosystems."></a>
 <a href="https://github.com/eldardzh/nullmask"><img src="assets/card-nullmask.svg" width="49%" alt="Nullmask. Zero-knowledge privacy protocol, live on mainnet."></a>
 <a href="https://github.com/eldardzh/vaultos"><img src="assets/card-vaultos.svg" width="49%" alt="VaultOS. Self-custody multisig vault for Mac, pre-release."></a>
 <a href="https://github.com/eldardzh/duetpro"><img src="assets/card-duetpro.svg" width="49%" alt="DuetPro. Agent fleets for code."></a>
 <a href="https://github.com/eldardzh/market-making-infra"><img src="assets/card-market-making.svg" width="49%" alt="Market Making. Production market-making infrastructure."></a>
-<a href="https://github.com/eldardzh/weway-launchpad"><img src="assets/card-weway.svg" width="49%" alt="WeWay. Production token-sale platform across EVM, Solana and TON."></a>
 <a href="https://github.com/eldardzh/prop-trading-platform"><img src="assets/card-prop-trading.svg" width="49%" alt="Prop Trading. Challenge flow, broker integration, risk engine and payouts."></a>
 <a href="https://github.com/eldardzh/hiphop-defi"><img src="assets/card-hiphop.svg" width="49%" alt="HipHop. End-to-end DeFi protocol stack."></a>
 <a href="https://github.com/eldardzh/sundog"><img src="assets/card-sundog.svg" width="49%" alt="Sundog. Telegram-native trading product."></a>
-<a href="https://github.com/eldardzh/multichain-contracts"><img src="assets/card-multichain-contracts.svg" width="49%" alt="Contracts. Solidity, Anchor, Move and FunC across four ecosystems."></a>
 <a href="https://github.com/eldardzh/ai-engineering-agent"><img src="assets/card-ai-agent.svg" width="49%" alt="AI Agent. Production agent loop with planning, tools, memory and recovery."></a>
 <a href="https://github.com/eldardzh/ton-launchpad"><img src="assets/card-ton-launchpad.svg" width="49%" alt="TON Launchpad. A token launchpad built natively on TON."></a>
 <a href="https://github.com/eldardzh/cex-admin-system"><img src="assets/card-cex-admin.svg" width="49%" alt="CEX Admin. The control plane for a centralized exchange."></a>
@@ -48,6 +52,7 @@ I build the production systems others don't want to touch: zero-knowledge privac
 
 ### More Work
 
+- **[Smart-contract portfolio](https://github.com/eldardzh/multichain-contracts)** — SURGE, sale and claim contracts, vesting, AMMs, and chain-specific integrations
 - **[Multichain Wallet Stack](https://github.com/eldardzh/multichain-wallet-stack)** — self-custodial wallet across chains
 - **[Sui On-Chain Toolkit](https://github.com/eldardzh/sui-onchain-toolkit)** — Move modules and on-chain trackers
 - **[DEX Aggregator API](https://github.com/eldardzh/dex-aggregator-api)** — cross-DEX quote aggregation
@@ -67,13 +72,11 @@ I build the production systems others don't want to touch: zero-knowledge privac
 
 ### How I Work
 
-```text
-01  Architecture first.       Design carries the system, not code.
-02  Ship the vertical slice.  End-to-end > 80% horizontal layers.
-03  Production from day one.  Observability is not optional.
-04  Invariants are sacred.    Idempotency, audit, replayability.
-05  Reversibility > speed.    Anything I deploy, I can also roll back.
-```
+I use AI agents to explore, implement, and review. I check their work against the actual behavior: tests, running apps, transaction state, logs. A green answer in a chat is not a production check.
+
+The interesting parts are usually at the boundaries: a wallet that lost its RPC, an agent that needs to recover, a document a scanner cannot read, a payment whose outcome is still unknown. That is where I spend my time.
+
+Build notes, engineering decisions, experiments with agents, and programming life: [X / @EldarDissmay](https://x.com/EldarDissmay).
 
 <p align="center">
   <sub>Available for select engagements</sub><br>
