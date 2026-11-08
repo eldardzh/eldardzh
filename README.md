@@ -9,6 +9,14 @@ I build the production systems others don't want to touch: zero-knowledge privac
 <a href="https://github.com/eldardzh/vaultos"><img src="assets/card-vaultos.svg" width="49%" alt="VaultOS. Self-custody multisig vault for Mac, pre-release."></a>
 <a href="https://github.com/eldardzh/duetpro"><img src="assets/card-duetpro.svg" width="49%" alt="DuetPro. Agent fleets for code."></a>
 <a href="https://github.com/eldardzh/market-making-infra"><img src="assets/card-market-making.svg" width="49%" alt="Market Making. Production market-making infrastructure."></a>
+<a href="https://github.com/eldardzh/weway-launchpad"><img src="assets/card-weway.svg" width="49%" alt="WeWay. Production token-sale platform across EVM, Solana and TON."></a>
+<a href="https://github.com/eldardzh/prop-trading-platform"><img src="assets/card-prop-trading.svg" width="49%" alt="Prop Trading. Challenge flow, broker integration, risk engine and payouts."></a>
+<a href="https://github.com/eldardzh/hiphop-defi"><img src="assets/card-hiphop.svg" width="49%" alt="HipHop. End-to-end DeFi protocol stack."></a>
+<a href="https://github.com/eldardzh/sundog"><img src="assets/card-sundog.svg" width="49%" alt="Sundog. Telegram-native trading product."></a>
+<a href="https://github.com/eldardzh/multichain-contracts"><img src="assets/card-multichain-contracts.svg" width="49%" alt="Contracts. Solidity, Anchor, Move and FunC across four ecosystems."></a>
+<a href="https://github.com/eldardzh/ai-engineering-agent"><img src="assets/card-ai-agent.svg" width="49%" alt="AI Agent. Production agent loop with planning, tools, memory and recovery."></a>
+<a href="https://github.com/eldardzh/ton-launchpad"><img src="assets/card-ton-launchpad.svg" width="49%" alt="TON Launchpad. A token launchpad built natively on TON."></a>
+<a href="https://github.com/eldardzh/cex-admin-system"><img src="assets/card-cex-admin.svg" width="49%" alt="CEX Admin. The control plane for a centralized exchange."></a>
 </p>
 
 ### Activity
@@ -38,14 +46,18 @@ I build the production systems others don't want to touch: zero-knowledge privac
 
 <sub>Most of this work is in private repositories. <a href="https://github.com/eldardzh/activity-mirror">activity-mirror</a> carries the same dates onto the contribution graph, as empty commits with no code.</sub>
 
-### Earlier Work
+### More Work
 
-- **[WeWay](https://github.com/eldardzh/weway-launchpad)** — multichain launchpad ecosystem across EVM, Solana and TON
-- **[Sundog](https://github.com/eldardzh/sundog)** — Telegram-native trading product
-- **[HipHop](https://github.com/eldardzh/hiphop-defi)** — full DeFi protocol stack
-- **[Prop Trading Platform](https://github.com/eldardzh/prop-trading-platform)** — challenge flow, risk engine, payouts
-- **[Multichain Contracts](https://github.com/eldardzh/multichain-contracts)** — Solidity, Anchor, Move, FunC
-- **[AI Engineering Agent](https://github.com/eldardzh/ai-engineering-agent)** — LLM agent loop with planning and tools
+- **[Multichain Wallet Stack](https://github.com/eldardzh/multichain-wallet-stack)** — self-custodial wallet across chains
+- **[Sui On-Chain Toolkit](https://github.com/eldardzh/sui-onchain-toolkit)** — Move modules and on-chain trackers
+- **[DEX Aggregator API](https://github.com/eldardzh/dex-aggregator-api)** — cross-DEX quote aggregation
+- **[Solana Pump.fun Backend](https://github.com/eldardzh/solana-pumpfun-backend)** — high-throughput Solana backend patterns
+- **[Telegram Bots Suite](https://github.com/eldardzh/telegram-bots-suite)** — production Telegram bots
+- **[Trading Systems Toolkit](https://github.com/eldardzh/trading-systems-toolkit)** — strategy and execution simulator
+- **[Grafana Observability Stack](https://github.com/eldardzh/grafana-observability-stack)** — Grafana, Prometheus and Loki
+- **[Hetzner Terraform Modules](https://github.com/eldardzh/hetzner-terraform-modules)** — reusable Hetzner Cloud modules
+- **[OKX Webflow Widget](https://github.com/eldardzh/okx-webflow-widget)** — embeddable OKX swap widget
+- **[Web3 Landings](https://github.com/eldardzh/web3-landings-collection)** — marketing sites collection
 
 [Browse all repositories](https://github.com/eldardzh?tab=repositories)
 
