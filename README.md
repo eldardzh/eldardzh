@@ -1,18 +1,30 @@
-<p align="center"><img src="assets/banner.svg" alt="Eldar D. Senior engineer and architect. Software, systems, AI agents. Shipping now: Nullmask, VaultOS, DuetPro." width="100%"></p>
+<p align="center"><picture><source media="(max-width: 600px)" srcset="assets/banner-mobile.svg"><img src="assets/banner.svg" alt="Eldar D. Senior Engineer and Architect. Smart contracts, security, systems architecture. Building CryptoSafe and DuetPro." width="100%"></picture></p>
 
-I build products end to end: smart contracts, trading systems, desktop apps, AI tools, and the infrastructure behind them. I use coding agents every day — architecture, verification, and the production outcome are still my job.
+**I'm Eldar — a senior engineer and architect working across smart contracts, security, and production systems.** I turn complex systems into products people can use: from protocol logic and signing flows to desktop apps, AI tools, and the infrastructure behind them.
 
-My work spans desktop and web products, developer tools, business automation, document processing, trading infrastructure, and on-chain systems. For smart contracts, that includes **Solidity, Anchor, Move, and FunC** across EVM, Solana, Sui, and TON.
+### Building Now
 
-These are selected projects from that wider body of work. I like building the whole path: the core logic, the interface, the integrations, and the production operations.
+<p><a href="https://github.com/eldardzh/vaultos"><picture><source media="(max-width: 600px)" srcset="assets/product-cryptosafe-mobile.svg"><img src="assets/product-cryptosafe.svg" width="100%" alt="CryptoSafe / VaultOS. Self-custody, shared control. Multisig vaults, hardware signing and recovery beyond the app. In development."></picture></a></p>
+
+**CryptoSafe / VaultOS** — self-custody for people who want control over signing, co-owners, and recovery. [Explore the architecture →](https://github.com/eldardzh/vaultos)
+
+<p><a href="https://github.com/eldardzh/duetpro"><picture><source media="(max-width: 600px)" srcset="assets/product-duetpro-mobile.svg"><img src="assets/product-duetpro.svg" width="100%" alt="DuetPro. Your agents, one workspace. Coordinate coding agents, review changes and keep control of what ships. Active development."></picture></a></p>
+
+**DuetPro** — my desktop workspace for coding agents: delegate tasks, coordinate parallel work, review the result. [Explore the product →](https://github.com/eldardzh/duetpro)
+
+### Engineering Focus
+
+- **Smart contracts** — Solidity, Anchor, Move, and Tact across EVM, Solana, Sui, and TON. Token sales, vesting, claims, AMMs, wallets, and protocol integrations.
+- **Security** — authorization and signing boundaries, contract verification, RPC cross-checks, recovery paths, and explicit handling of uncertain transaction outcomes.
+- **Architecture** — clear ownership of state, resilient services, agent orchestration, observability, and systems that remain understandable when something fails.
+
+My wider work includes desktop and web products, developer tools, business automation, document processing, trading infrastructure, and on-chain systems. The projects below are a selection from that work.
 
 ### Selected Work
 
 <p>
-<a href="https://github.com/eldardzh/duetpro"><img src="assets/card-duetpro.svg" width="49%" alt="DuetPro. Agent fleets for code."></a>
+<a href="https://github.com/eldardzh/multichain-contracts"><img src="assets/card-multichain-contracts.svg" width="49%" alt="Smart Contracts. Solidity, Anchor, Move and Tact. Access control, state and invariants."></a>
 <a href="https://github.com/eldardzh/market-making-infra"><img src="assets/card-market-making.svg" width="49%" alt="Market Making. Production market-making infrastructure."></a>
-<a href="https://github.com/eldardzh/vaultos"><img src="assets/card-vaultos.svg" width="49%" alt="VaultOS. Self-custody multisig vault for Mac, pre-release."></a>
-<a href="https://github.com/eldardzh/multichain-contracts"><img src="assets/card-multichain-contracts.svg" width="49%" alt="Contracts. Solidity, Anchor, Move and FunC across four ecosystems."></a>
 <a href="https://github.com/eldardzh/weway-launchpad"><img src="assets/card-weway.svg" width="49%" alt="WeWay / WePad. Token sales, vesting, claims, smart contracts, backends, admin panels and Telegram apps."></a>
 <a href="https://github.com/eldardzh/nullmask"><img src="assets/card-nullmask.svg" width="49%" alt="Nullmask. Zero-knowledge privacy protocol, live on mainnet."></a>
 <a href="https://github.com/eldardzh/prop-trading-platform"><img src="assets/card-prop-trading.svg" width="49%" alt="Prop Trading. Challenge flow, broker integration, risk engine and payouts."></a>
@@ -72,11 +84,15 @@ These are selected projects from that wider body of work. I like building the wh
 
 ### How I Work
 
+<img align="right" src="assets/null-operator.gif" width="112" alt="Null Operator, my animated engineering character">
+
 I use AI agents to explore, implement, and review. I check their work against the actual behavior: tests, running apps, transaction state, logs. A green answer in a chat is not a production check.
 
 The interesting parts are usually at the boundaries: a wallet that lost its RPC, an agent that needs to recover, a document a scanner cannot read, a payment whose outcome is still unknown. That is where I spend my time.
 
 Build notes, engineering decisions, experiments with agents, and programming life: [X / @EldarDissmay](https://x.com/EldarDissmay).
+
+<br clear="all">
 
 <p align="center">
   <sub>Available for select engagements</sub><br>
