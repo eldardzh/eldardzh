@@ -63,7 +63,7 @@ I build the production systems others don't want to touch: zero-knowledge privac
 
 ### Stack
 
-<p align="center"><img src="assets/stack.svg" alt="Solidity, Noir, Hardhat, Foundry, Anchor, Move, FunC. Ethereum, Solana, BNB Chain, Arbitrum, Base, Sui, TON, Tron. TypeScript, NestJS, Go, PostgreSQL, ClickHouse, Redis, Kafka. React, Next.js, Electron, Tauri, SwiftUI. Docker, Traefik, Terraform, Grafana, Prometheus, Cloudflare. Claude Agent SDK, Codex, MCP." width="100%"></p>
+<p align="center"><img src="assets/stack.svg" alt="Technology stack: AI agents and models, smart contracts, zero-knowledge, chains, backend, data, frontend, desktop and mobile apps, testing, infrastructure and observability." width="100%"></p>
 
 ### How I Work
 
