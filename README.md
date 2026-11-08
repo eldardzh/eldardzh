@@ -2,19 +2,19 @@
 
 I build products end to end: smart contracts, trading systems, desktop apps, AI tools, and the infrastructure behind them. I use coding agents every day — architecture, verification, and the production outcome are still my job.
 
-**WeWay / WePad** is a whole ecosystem in that work: token sales, vesting, claims, contracts, backends, admin panels, indexers, and Telegram apps. My on-chain work spans **Solidity, Anchor, Move, and FunC** across EVM, Solana, Sui, and TON.
+My work spans desktop and web products, developer tools, business automation, document processing, trading infrastructure, and on-chain systems. For smart contracts, that includes **Solidity, Anchor, Move, and FunC** across EVM, Solana, Sui, and TON.
 
-Here are selected projects. I also work on document processing, business automation, developer tools, bots, SDKs, and product interfaces.
+These are selected projects from that wider body of work. I like building the whole path: the core logic, the interface, the integrations, and the production operations.
 
 ### Selected Work
 
 <p>
-<a href="https://github.com/eldardzh/weway-launchpad"><img src="assets/card-weway.svg" width="49%" alt="WeWay / WePad. Token sales, vesting, claims, smart contracts, backends, admin panels and Telegram apps."></a>
-<a href="https://github.com/eldardzh/multichain-contracts"><img src="assets/card-multichain-contracts.svg" width="49%" alt="Contracts. Solidity, Anchor, Move and FunC across four ecosystems."></a>
-<a href="https://github.com/eldardzh/nullmask"><img src="assets/card-nullmask.svg" width="49%" alt="Nullmask. Zero-knowledge privacy protocol, live on mainnet."></a>
-<a href="https://github.com/eldardzh/vaultos"><img src="assets/card-vaultos.svg" width="49%" alt="VaultOS. Self-custody multisig vault for Mac, pre-release."></a>
 <a href="https://github.com/eldardzh/duetpro"><img src="assets/card-duetpro.svg" width="49%" alt="DuetPro. Agent fleets for code."></a>
 <a href="https://github.com/eldardzh/market-making-infra"><img src="assets/card-market-making.svg" width="49%" alt="Market Making. Production market-making infrastructure."></a>
+<a href="https://github.com/eldardzh/vaultos"><img src="assets/card-vaultos.svg" width="49%" alt="VaultOS. Self-custody multisig vault for Mac, pre-release."></a>
+<a href="https://github.com/eldardzh/multichain-contracts"><img src="assets/card-multichain-contracts.svg" width="49%" alt="Contracts. Solidity, Anchor, Move and FunC across four ecosystems."></a>
+<a href="https://github.com/eldardzh/weway-launchpad"><img src="assets/card-weway.svg" width="49%" alt="WeWay / WePad. Token sales, vesting, claims, smart contracts, backends, admin panels and Telegram apps."></a>
+<a href="https://github.com/eldardzh/nullmask"><img src="assets/card-nullmask.svg" width="49%" alt="Nullmask. Zero-knowledge privacy protocol, live on mainnet."></a>
 <a href="https://github.com/eldardzh/prop-trading-platform"><img src="assets/card-prop-trading.svg" width="49%" alt="Prop Trading. Challenge flow, broker integration, risk engine and payouts."></a>
 <a href="https://github.com/eldardzh/hiphop-defi"><img src="assets/card-hiphop.svg" width="49%" alt="HipHop. End-to-end DeFi protocol stack."></a>
 <a href="https://github.com/eldardzh/sundog"><img src="assets/card-sundog.svg" width="49%" alt="Sundog. Telegram-native trading product."></a>
