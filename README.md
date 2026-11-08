@@ -1,189 +1,61 @@
-<div align="center">
+<p align="center"><img src="assets/banner.svg" alt="Eldar D. Senior engineer and architect. Web3, trading systems, AI agents. Shipping now: Nullmask, VaultOS, DuetPro." width="100%"></p>
 
-```
-███████╗██╗     ██████╗  █████╗ ██████╗     ██████╗
-██╔════╝██║     ██╔══██╗██╔══██╗██╔══██╗    ██╔══██╗
-█████╗  ██║     ██║  ██║███████║██████╔╝    ██║  ██║
-██╔══╝  ██║     ██║  ██║██╔══██║██╔══██╗    ██║  ██║
-███████╗███████╗██████╔╝██║  ██║██║  ██║    ██████╔╝
-╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝
-```
+I build the production systems others don't want to touch: zero-knowledge privacy, self-custody, trading infrastructure, and the agent tooling I ship all of it with.
 
-### Senior Engineer · Tech Lead · Architect
-**Web3 · Trading Systems · AI**
+### Selected Work
 
-Building production launchpads, market-making infrastructure, and
-AI agents across **EVM · Solana · Sui · TON**.
+<p>
+<a href="https://github.com/eldardzh/nullmask"><img src="assets/card-nullmask.svg" width="49%" alt="Nullmask. Zero-knowledge privacy protocol, live on mainnet."></a>
+<a href="https://github.com/eldardzh/vaultos"><img src="assets/card-vaultos.svg" width="49%" alt="VaultOS. Self-custody multisig vault for Mac, pre-release."></a>
+<a href="https://github.com/eldardzh/duetpro"><img src="assets/card-duetpro.svg" width="49%" alt="DuetPro. Agent fleets for code."></a>
+<a href="https://github.com/eldardzh/market-making-infra"><img src="assets/card-market-making.svg" width="49%" alt="Market Making. Production market-making infrastructure."></a>
+</p>
 
-[![Site](https://img.shields.io/badge/site-eldardzh.com-b9ff66?style=for-the-badge&labelColor=060607)](https://eldardzh.com)
-[![Twitter](https://img.shields.io/badge/twitter-@EldarDissmay-ededed?style=for-the-badge&labelColor=060607&logo=x&logoColor=ededed)](https://x.com/EldarDissmay)
-[![Email](https://img.shields.io/badge/email-dissmay21@gmail.com-8b8b94?style=for-the-badge&labelColor=060607)](mailto:dissmay21@gmail.com)
-[![Status](https://img.shields.io/badge/●_available_for_select_work-b9ff66?style=for-the-badge&labelColor=060607)](https://eldardzh.com)
+### Activity
 
-</div>
+<p align="center"><img src="assets/activity.svg" alt="Heatmap of 5,927 real commits over the last year, rising sharply from August 2026." width="100%"></p>
 
----
+<details>
+<summary>Commits by month</summary>
 
-## ▎Now Shipping
+| Month | Commits |
+|---|---:|
+| Nov 2026 | 1,863 |
+| Oct 2026 | 2,108 |
+| Sep 2026 | 1,024 |
+| Aug 2026 | 333 |
+| Jul 2026 | 60 |
+| Jun 2026 | 72 |
+| May 2026 | 244 |
+| Apr 2026 | 58 |
+| Mar 2026 | 61 |
+| Feb 2026 | 36 |
+| Jan 2026 | 44 |
+| Dec 2025 | 13 |
+| Nov 2025 | 11 |
 
-```
-► WeWay         — multichain launchpad ecosystem  ( EVM · Solana · TON )
-► Sundog        — Telegram-native Solana trading
-► Market Making — production MM infrastructure
-► HipHop        — full DeFi protocol stack
-► AI Agent      — production LLM agent loop
-```
+</details>
 
----
+<sub>Most of this work is in private repositories. <a href="https://github.com/eldardzh/activity-mirror">activity-mirror</a> carries the same dates onto the contribution graph, as empty commits with no code.</sub>
 
-## ▎By the Numbers
+### Earlier Work
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <h2>28+</h2>
-      <sub>products<br/>shipped</sub>
-    </td>
-    <td align="center" width="20%">
-      <h2>5</h2>
-      <sub>chains<br/>covered</sub>
-    </td>
-    <td align="center" width="20%">
-      <h2>10+</h2>
-      <sub>years<br/>shipping</sub>
-    </td>
-    <td align="center" width="20%">
-      <h2>24mo</h2>
-      <sub>most recent<br/>active span</sub>
-    </td>
-    <td align="center" width="20%">
-      <h2>0→1</h2>
-      <sub>default<br/>operating mode</sub>
-    </td>
-  </tr>
-</table>
+- **[WeWay](https://github.com/eldardzh/weway-launchpad)** — multichain launchpad ecosystem across EVM, Solana and TON
+- **[Sundog](https://github.com/eldardzh/sundog)** — Telegram-native trading product
+- **[HipHop](https://github.com/eldardzh/hiphop-defi)** — full DeFi protocol stack
+- **[Prop Trading Platform](https://github.com/eldardzh/prop-trading-platform)** — challenge flow, risk engine, payouts
+- **[Multichain Contracts](https://github.com/eldardzh/multichain-contracts)** — Solidity, Anchor, Move, FunC
+- **[AI Engineering Agent](https://github.com/eldardzh/ai-engineering-agent)** — LLM agent loop with planning and tools
 
----
+[Browse all repositories](https://github.com/eldardzh?tab=repositories)
 
-## ▎Selected Work
+### Stack
 
-> Showcase repositories below document closed-source products at the
-> **architectural level**. Each one is a real, shipped system.
+<p align="center"><img src="assets/stack.svg" alt="Solidity, Noir, Hardhat, Foundry, Anchor, Move, FunC. Ethereum, Solana, BNB Chain, Arbitrum, Base, Sui, TON, Tron. TypeScript, NestJS, Go, PostgreSQL, ClickHouse, Redis, Kafka. React, Next.js, Electron, Tauri, SwiftUI. Docker, Traefik, Terraform, Grafana, Prometheus, Cloudflare. Claude Agent SDK, Codex, MCP." width="100%"></p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### How I Work
 
-### [🛰 WeWay — Launchpad Ecosystem](https://github.com/eldardzh/weway-launchpad)
-Full multichain launchpad. **EVM · Solana · TON.** Contracts → indexer → services → admin → Telegram-native UX. 10 cooperating services.<br/>
-<sub>**Role:** Lead Architect · 2023 — 2025</sub>
-
-    </td>
-    <td width="50%" valign="top">
-
-### [🌅 Sundog — Solana Trading Product](https://github.com/eldardzh/sundog)
-Telegram-native trading on Solana. Bot UX, staking, indexer, analytics. Stress-tested by real volume during hype cycle.<br/>
-<sub>**Role:** Lead Engineer · 2024 — 2025</sub>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### [⚡ Market-Making Infrastructure](https://github.com/eldardzh/market-making-infra)
-Production MM bots, orderbook ops, risk engine, alerting. Rare skillset typically found at quant funds.<br/>
-<sub>**Role:** Architect · 2024 — 2025</sub>
-
-    </td>
-    <td width="50%" valign="top">
-
-### [🎵 HipHop — DeFi Protocol Stack](https://github.com/eldardzh/hiphop-defi)
-End-to-end DeFi: smart contracts, custom indexer, backend API, user-facing dApp.<br/>
-<sub>**Role:** Full-stack Architect · 2024 — 2025</sub>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### [⛓ Multichain Smart Contracts](https://github.com/eldardzh/multichain-contracts)
-Solidity, Anchor, Move, FunC. SURGE, EVM Pump.fun, BlastFarm, on-chain raffle, Merkle claims, Sui modules, TON contracts.<br/>
-<sub>**Role:** Smart Contract Engineer · 2023 — 2025</sub>
-
-    </td>
-    <td width="50%" valign="top">
-
-### [🤖 AI Engineering Agent](https://github.com/eldardzh/ai-engineering-agent)
-Production LLM agent loop: planning, tool calls, memory, error recovery. Pattern-aware for engineering tasks.<br/>
-<sub>**Role:** Engineer · 2025 — 2026</sub>
-
-    </td>
-  </tr>
-</table>
-
-<div align="right"><sub><a href="https://github.com/eldardzh?tab=repositories">→ Browse all showcase repositories</a></sub></div>
-
----
-
-## ▎Stack
-
-<div align="center">
-
-**Smart Contracts**
-&nbsp;&nbsp;
-![Solidity](https://img.shields.io/badge/Solidity-060607?style=for-the-badge&logo=solidity&logoColor=b9ff66)
-![Foundry](https://img.shields.io/badge/Foundry-060607?style=for-the-badge&logoColor=b9ff66)
-![Hardhat](https://img.shields.io/badge/Hardhat-060607?style=for-the-badge&logoColor=b9ff66)
-![Anchor](https://img.shields.io/badge/Anchor-060607?style=for-the-badge&logoColor=b9ff66)
-![Move](https://img.shields.io/badge/Move-060607?style=for-the-badge&logoColor=b9ff66)
-![FunC](https://img.shields.io/badge/FunC-060607?style=for-the-badge&logoColor=b9ff66)
-
-**Chains**
-&nbsp;&nbsp;
-![Ethereum](https://img.shields.io/badge/EVM-060607?style=for-the-badge&logo=ethereum&logoColor=b9ff66)
-![Solana](https://img.shields.io/badge/Solana-060607?style=for-the-badge&logo=solana&logoColor=b9ff66)
-![Sui](https://img.shields.io/badge/Sui-060607?style=for-the-badge&logoColor=b9ff66)
-![TON](https://img.shields.io/badge/TON-060607?style=for-the-badge&logoColor=b9ff66)
-![Tron](https://img.shields.io/badge/Tron-060607?style=for-the-badge&logoColor=b9ff66)
-
-**Backend**
-&nbsp;&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-060607?style=for-the-badge&logo=nestjs&logoColor=b9ff66)
-![Node.js](https://img.shields.io/badge/Node.js-060607?style=for-the-badge&logo=node.js&logoColor=b9ff66)
-![TypeScript](https://img.shields.io/badge/TypeScript-060607?style=for-the-badge&logo=typescript&logoColor=b9ff66)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-060607?style=for-the-badge&logo=postgresql&logoColor=b9ff66)
-![Redis](https://img.shields.io/badge/Redis-060607?style=for-the-badge&logo=redis&logoColor=b9ff66)
-![BullMQ](https://img.shields.io/badge/BullMQ-060607?style=for-the-badge&logoColor=b9ff66)
-
-**Frontend**
-&nbsp;&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-060607?style=for-the-badge&logo=next.js&logoColor=b9ff66)
-![React](https://img.shields.io/badge/React-060607?style=for-the-badge&logo=react&logoColor=b9ff66)
-![Tailwind](https://img.shields.io/badge/Tailwind-060607?style=for-the-badge&logo=tailwindcss&logoColor=b9ff66)
-![wagmi](https://img.shields.io/badge/wagmi-060607?style=for-the-badge&logoColor=b9ff66)
-![viem](https://img.shields.io/badge/viem-060607?style=for-the-badge&logoColor=b9ff66)
-
-**Infra & Ops**
-&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-060607?style=for-the-badge&logo=docker&logoColor=b9ff66)
-![Terraform](https://img.shields.io/badge/Terraform-060607?style=for-the-badge&logo=terraform&logoColor=b9ff66)
-![Grafana](https://img.shields.io/badge/Grafana-060607?style=for-the-badge&logo=grafana&logoColor=b9ff66)
-![Prometheus](https://img.shields.io/badge/Prometheus-060607?style=for-the-badge&logo=prometheus&logoColor=b9ff66)
-![Hetzner](https://img.shields.io/badge/Hetzner-060607?style=for-the-badge&logoColor=b9ff66)
-
-**AI**
-&nbsp;&nbsp;
-![Anthropic](https://img.shields.io/badge/Anthropic-060607?style=for-the-badge&logoColor=b9ff66)
-![OpenAI](https://img.shields.io/badge/OpenAI-060607?style=for-the-badge&logo=openai&logoColor=b9ff66)
-![LangChain](https://img.shields.io/badge/LangChain-060607?style=for-the-badge&logoColor=b9ff66)
-
-</div>
-
----
-
-## ▎How I Work
-
-```
+```text
 01  Architecture first.       Design carries the system, not code.
 02  Ship the vertical slice.  End-to-end > 80% horizontal layers.
 03  Production from day one.  Observability is not optional.
@@ -191,25 +63,7 @@ Production LLM agent loop: planning, tool calls, memory, error recovery. Pattern
 05  Reversibility > speed.    Anything I deploy, I can also roll back.
 ```
 
----
-
-## ▎GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldardzh&show_icons=true&theme=transparent&hide_border=true&title_color=b9ff66&icon_color=b9ff66&text_color=ededed&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eldardzh&layout=compact&theme=transparent&hide_border=true&title_color=b9ff66&text_color=ededed&hide=html,css)
-
-</div>
-
----
-
-<div align="center">
-
-### **Available for select engagements**
-
-[**eldardzh.com**](https://eldardzh.com)  ·  [**@EldarDissmay**](https://x.com/EldarDissmay)  ·  [**dissmay21@gmail.com**](mailto:dissmay21@gmail.com)
-
-<sub>© 2026 · Eldar D.</sub>
-
-</div>
+<p align="center">
+  <sub>Available for select engagements</sub><br>
+  <a href="https://x.com/EldarDissmay">@EldarDissmay</a> · dissmay21@gmail.com
+</p>
