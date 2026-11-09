@@ -1,4 +1,4 @@
-<p align="center"><picture><source media="(max-width: 600px)" srcset="assets/banner-mobile.gif"><img src="assets/banner.gif" alt="Animated Null Operator. Eldar D. Senior Engineer and Architect. Smart contracts, security, systems architecture. Building CryptoSafe and DuetPro." width="100%"></picture></p>
+<p align="center"><picture><source media="(max-width: 600px)" srcset="assets/profile-intro-mobile.gif"><img src="assets/profile-intro.gif" alt="Animated Null Operator. Eldar D. Senior Engineer and Architect. Smart contracts, security, systems architecture. Building CryptoSafe and DuetPro." width="100%"></picture></p>
 
 **I'm Eldar — a senior engineer and architect working across smart contracts, security, and production systems.** I turn complex systems into products people can use: from protocol logic and signing flows to desktop apps, AI tools, and the infrastructure behind them.
 
